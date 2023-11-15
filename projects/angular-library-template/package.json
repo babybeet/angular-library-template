@@ -1,0 +1,26 @@
+{
+  "name": "angular-library-template",
+  "description": "This is a description",
+  "version": "0.0.1",
+  "author": {
+    "name": "Baby Beet"
+  },
+  "keywords": [
+    "angular-library-template"
+  ],
+  "peerDependencies": {
+    "@angular/common": "16 - 18",
+    "@angular/core": "16 - 18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babybeet/angular-library-template"
+  },
+  "devDependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
